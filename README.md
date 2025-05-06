@@ -17,7 +17,7 @@ A personal portfolio website for **Obsa Amin**, a banking and finance profession
 
 ## 🌐 Live Demo
 
-![Obsa Amin](https://github.com/mua1z/portfoli/blob/master/Screenshot%202025-05-06%20235141.png)
+👉 [Click here to view the live site](https://obsaportfolio.vercel.app/)
 
 ---
 
