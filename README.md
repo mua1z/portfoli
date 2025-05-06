@@ -32,19 +32,33 @@ A personal portfolio website for **Obsa Amin**, a banking and finance profession
 ## 📁 Project Structure
 
 obsaamin-portfolio/
+
 ├── public/
+
 │ └── favicon.svg
+
 ├── src/
+
 │ ├── assets/
+
 │ ├── components/
+
 │ ├── pages/
+
 │ ├── App.jsx
+
 │ ├── main.jsx
+
 │ └── index.css
+
 ├── tailwind.config.js
+
 ├── vite.config.js
+
 ├── package.json
+
 └── README.md
+
 
 
 ---
