@@ -10,6 +10,7 @@ import Contact from './Components/Contact';
 
 
 
+
 import './index.css';
 
 
@@ -41,6 +42,7 @@ function App() {
 <section id="contact">
   <Contact />
 </section>
+
 
     
    

@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
 const TextChange = () => {
-  const texts = React.useMemo(() => ["Hey There, I'm Obsa", "Welcome to my Portfolio", "Let's build something great!"], []);
+  const texts = React.useMemo(() => ["Hey There, I'm Obsa Amin", "Welcome to my Portfolio Website", "Let's build something great!"], []);
   const [currentText, setCurrentText] = useState('');
   const [isDeleting, setIsDeleting] = useState(false);
   const [textIndex, setTextIndex] = useState(0);
