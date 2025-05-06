@@ -1,4 +1,5 @@
 # Obsa Amin - Banking & Finance Portfolio Website
+![Obsa Amin](https://github.com/mua1z/portfoli/blob/master/Screenshot%202025-05-06%20235141.png)
 
 A personal portfolio website for **Obsa Amin**, a banking and finance professional. Built with **React**, **Vite**, and **Tailwind CSS**, this site showcases Obsa's experience in financial services, loan processing, customer support, and compliance — all presented in a clean, modern, and responsive design.
 
