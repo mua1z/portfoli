@@ -16,7 +16,7 @@ A personal portfolio website for **Obsa Amin**, a banking and finance profession
 
 ## 🌐 Live Demo
 
-> [Coming Soon] – Add your deployed site link here (e.g., Netlify or Vercel)
+![Obsa Amin](./public/obsa-amin-profile.jpg)
 
 ---
 
