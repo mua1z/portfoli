@@ -5,9 +5,10 @@ import Photo from '../assets/Photo/photo_2025-04-21_14-01-08.jpg'
 const About = () => {
   return (
     <div className='text-white md:flex overflow-hidden items-center md:flex-wrap md:justify-center bg-black shadow-xl mx-0 md:mx-20 bg-opacity-30 rounded-lg p-12'>
+       
         <div >
 
-            <h2 className='text-2xl md:text-4xl font-bold text-green-500'>👤 About Me</h2>
+        <section id="about"> <h2 className='text-2xl md:text-4xl font-bold text-green-500'>👤 About Me</h2></section>
             <div className='md:flex flex-wrap flex-col md:flex-row items-center'>
                 <img className='md:h-80 mr-6   rounded-b-full' src={Photo} alt='Obsa'/>
                 <ul>
