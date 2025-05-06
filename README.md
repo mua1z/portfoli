@@ -1,12 +1,64 @@
-# React + Vite
+# Obsa Amin - Banking & Finance Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website for **Obsa Amin**, a banking and finance professional. Built with **React**, **Vite**, and **Tailwind CSS**, this site showcases Obsa's experience in financial services, loan processing, customer support, and compliance — all presented in a clean, modern, and responsive design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔍 Features
 
-## Expanding the ESLint configuration
+- Modern design with smooth user experience
+- Fully responsive layout for all devices
+- Sections: Home, Experience, Skills, About, Contact
+- Built with performance-first tools (Vite + React)
+- Styled using Tailwind CSS utility classes
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🌐 Live Demo
+
+> [Coming Soon] – Add your deployed site link here (e.g., Netlify or Vercel)
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** – Component-based UI
+- **Vite** – Lightning-fast development & build tool
+- **Tailwind CSS** – Utility-first styling
+- **JavaScript (ES6+)**
+
+---
+
+## 📁 Project Structure
+
+obsaamin-portfolio/
+├── public/
+│ └── favicon.svg
+├── src/
+│ ├── assets/
+│ ├── components/
+│ ├── pages/
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── index.css
+├── tailwind.config.js
+├── vite.config.js
+├── package.json
+└── README.md
+
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/your-username/obsaamin-portfolio.git
+cd obsaamin-portfolio
+
+npm install
+
+npm run dev
