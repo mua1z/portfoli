@@ -29,14 +29,9 @@ const Home = () => {
   💬 Contact Me
   </a>
    
-  </button>
-
-
- 
-
-
-            
+  </button> 
             </div>
+            
            
     </div>
   )
