@@ -74,7 +74,7 @@ const Contact = () => {
             <textarea name="message" rows="4" required className="w-full p-2 rounded bg-slate-800 border border-slate-700" />
           </div>
           <button type="submit" className="bg-blue-600 px-4 py-2 rounded hover:bg-blue-700 transition">
-            Send Message
+            Send Messages
           </button>
         </form>
       </div>
