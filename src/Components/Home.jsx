@@ -11,7 +11,7 @@ const Home = () => {
   return (
     <div className='text-white flex w-full justify-between items-start p-10 md:p-20'>
  
-        <div className='md:w-2/4 md:pt-10'>f
+        <div className='md:w-2/4 md:pt-10'>
         <div className='md:flex flex-wrap flex-col md:flex-row items-center'  ><img className='w-2/5 rounded-full  ml-20 mb-10' src={Photo} alt='Obsa'></img></div>
           <h1 className='text-xl md:text-6xl font-bold flex leading-normal tracking-tighter'>
             <TextChange/>
