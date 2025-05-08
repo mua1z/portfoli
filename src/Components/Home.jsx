@@ -14,7 +14,7 @@ const Home = () => {
         <div className='md:w-2/4 md:pt-10'>
         <div className='md:flex flex-wrap flex-col md:flex-row items-center'  ><img className='w-2/5 rounded-full  ml-20 mb-10' src={Photo} alt='Obsa'></img></div>
           <h1 className='text-xl md:text-6xl font-bold flex leading-normal tracking-tighter'>
-            <TextChange/>g
+            <TextChange/>
             </h1>
             <h6 className='text-2xl md:text-2xl font-bold flex leading-normal tracking-tighter text-green-700'>Banking and Financial Professional</h6>
             <p className='text-sm md:text-2xl tracking-tight'>With a strong passion for delivering secure, efficient, and customer-focused financial solutions, I bring proven experience in banking operations, loan processing, and financial compliance. Whether supporting digital banking platforms or working directly with clients, I strive to ensure trust, accuracy, and excellence in every financial transaction.</p>
